@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://yaluruns.github.io/csb-5nzyds/static/css/main.7173c317.chunk.css",
+    "main.js": "https://yaluruns.github.io/csb-5nzyds/static/js/main.81fff7ae.chunk.js",
+    "main.js.map": "https://yaluruns.github.io/csb-5nzyds/static/js/main.81fff7ae.chunk.js.map",
+    "runtime-main.js": "https://yaluruns.github.io/csb-5nzyds/static/js/runtime-main.56516653.js",
+    "runtime-main.js.map": "https://yaluruns.github.io/csb-5nzyds/static/js/runtime-main.56516653.js.map",
+    "static/css/2.3c54e894.chunk.css": "https://yaluruns.github.io/csb-5nzyds/static/css/2.3c54e894.chunk.css",
+    "static/js/2.bd36a6b0.chunk.js": "https://yaluruns.github.io/csb-5nzyds/static/js/2.bd36a6b0.chunk.js",
+    "static/js/2.bd36a6b0.chunk.js.map": "https://yaluruns.github.io/csb-5nzyds/static/js/2.bd36a6b0.chunk.js.map",
+    "index.html": "https://yaluruns.github.io/csb-5nzyds/index.html",
+    "static/css/2.3c54e894.chunk.css.map": "https://yaluruns.github.io/csb-5nzyds/static/css/2.3c54e894.chunk.css.map",
+    "static/css/main.7173c317.chunk.css.map": "https://yaluruns.github.io/csb-5nzyds/static/css/main.7173c317.chunk.css.map",
+    "static/js/2.bd36a6b0.chunk.js.LICENSE.txt": "https://yaluruns.github.io/csb-5nzyds/static/js/2.bd36a6b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56516653.js",
+    "static/css/2.3c54e894.chunk.css",
+    "static/js/2.bd36a6b0.chunk.js",
+    "static/css/main.7173c317.chunk.css",
+    "static/js/main.81fff7ae.chunk.js"
+  ]
+}
